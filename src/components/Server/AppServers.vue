@@ -16,7 +16,7 @@
 </template>
 
 <script>
-  import { eventBus } from '../main';
+  import { eventBus } from '../../main';
   import AppServersList from './AppServersList.vue';
   import AppServersDetail from './AppServersDetail.vue';
 
