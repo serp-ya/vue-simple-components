@@ -2,7 +2,7 @@
   <ul class="list-group">
     <app-servers-list-item
       v-for="server in serversList"
-      :index="server.id"
+      :id="server.id"
       :showFn="showFn"
     ></app-servers-list-item>
   </ul>
