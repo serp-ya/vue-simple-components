@@ -1,3 +1,5 @@
+gh-pages: https://serp-ya.github.io/vue-simple-components/
+
 # vue-cli
 
 > A Vue.js project
